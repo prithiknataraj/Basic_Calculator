@@ -10,7 +10,6 @@ This is a basic calculator application built using Python's Tkinter library. It 
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
