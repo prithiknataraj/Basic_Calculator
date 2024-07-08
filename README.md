@@ -29,7 +29,7 @@ This is a basic calculator application built using Python's Tkinter library. It 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/simple-calculator.git
+   git clone https://github.com/prithiknataraj/Basic_Calculator.git
    cd simple-calculator
    ```
 
